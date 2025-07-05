@@ -12,7 +12,7 @@ Lifestyle Factors:  The dataset provides insights into lifestyle factors such as
 Cardiovascular Health:  The dataset includes measurements of blood pressure and heart rate, which are crucial indicators of an individual's cardiovascular health and may have a correlation with sleep disorders.
 
 Sleep Disorder Analysis:  The primary focus of this project is to identify the presence or absence of sleep disorders in individuals. The dataset labels individuals with three categories in the "Sleep Disorder" column:
-
+  
 - None: Individuals who do not exhibit any specific sleep disorder.
 - Insomnia: Individuals who experience difficulty falling asleep or staying asleep, leading to inadequate or poor-quality sleep.
 - Sleep Apnea: Individuals who suffer from pauses in breathing during sleep, resulting in disrupted sleep patterns and potential health risks.
